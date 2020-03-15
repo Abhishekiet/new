@@ -1,0 +1,42 @@
+.Navbarcss:active{
+    color:rgb(129, 126, 146);
+}
+.Navbarcss{
+    color:black;
+}
+.Navbarcss:hover{
+    color:rgb(129, 126, 146);
+}
+.shadow{
+    box-shadow:10px 10px grey;
+}
+.Cardcss{
+    align-items: center;
+    min-width:300px;
+    min-height:300px;
+    max-width: 300px;
+    max-width: 300px;
+    border-color: black;
+    box-shadow:2px 2px grey;
+    background-color: blue;
+}
+.Signup{
+    min-width: 400px;
+    min-height: 50px;
+}
+.Colour{
+    color:rgb(109, 12, 201);
+    margin: 80px;
+}
+.Blue{
+    color:blue;
+}
+.Float{
+    float:left;
+}
+.Red{
+    color:red;
+}
+.as{
+    text-align: center;
+}
